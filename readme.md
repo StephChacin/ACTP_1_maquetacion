@@ -1,6 +1,26 @@
-# Maquetación - Front End B-learning
+﻿# Maquetación - Front End B-learning
 
 ## Pre-maquetado de página Tía Tomate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Instrucciones: 
 
